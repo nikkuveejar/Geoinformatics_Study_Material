@@ -1,0 +1,2 @@
+# Geoinformatics_Study_Material
+Geoinformatics Study Material
