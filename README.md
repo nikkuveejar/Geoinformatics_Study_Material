@@ -20,5 +20,14 @@ Hii Everyone,
  1. Chemistry 
  2. Photogrametrry
  3. Computer Programming
- 4. 
+ 4. Remote Sensing
+ 5. Surveying
+ 6. Maths 2
+
+*Semester 3*
+ 1. Che
+
+*Semester 4*
+
+
 
