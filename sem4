@@ -1,1 +1,24 @@
+*Semester 4*
+1. Signal Systems
+                                                                     Syllabus
+ Unit-I:
+Definition & classification of signals, 2-D signals, Basic operations on discrete-time signals, Transformation of independent variable, Some basic discrete-time signals- Step, Ramp, Pulse, Impulse, Real and complex exponentials and Sinusoids, Periodic and aperiodic signals, Energy and power signals, Classification of systems & their properties. 
+[No. of Hrs. 10]
 
+Unit-II:
+Impulse response, convolution sum, Analytical method, convolution of finite-length signals. Relationship between LTI system properties and impulse response. Introduction to Discrete-time Fourier series.
+[No. of Hrs. 06]
+
+Unit-III:
+Discrete time Fourier Transform and its properties: linearity, time-shifting, frequency-shifting, time-reversal, convolution property and Parseval’s relation, Magnitude and Phase spectrum of signals. Signal transmission through LTI systems: response to complex exponentials and sinusoidal signals. Bilateral z-transform and its properties: linearity, time-shifting, time-reversal, convolution property, conjugation and conjugate symmetry  property. 
+[No. of Hrs. 08]
+
+Unit-IV:
+Discrete-Fourier Transform, inverse DFT, properties: periodicity, linearity, circular time-shifting, circular convolution, Spectrum analysis using DFT, Discrete Cosine Transform, 2-D Discrete Fourier Transform and 2-D DCT. 
+[No. of Hrs. 08]
+
+Unit-V:
+Filter Concepts (FIR and IIR): Frequency response and filter characteristics, Linear-phase filter, Simple FIR and IIR digital filter: lowpass, highpass, bandpass, and bandstop. Allpass filter, Averaging filters, Notch filters, Digital differentiator and Hilbert transformer. 
+[No. of Hrs. 08]
+
+Study Material
